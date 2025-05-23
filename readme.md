@@ -1,0 +1,1 @@
+This was something I was messing around with just to test out Vader and see if it could be used for something like this. In short; no. Probably needs an LLM. I'd like to develop something in the future to tell if someone needs help in a discord channel, and to message them and suggest they open a ticket instead.
